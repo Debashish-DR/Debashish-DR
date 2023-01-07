@@ -2,15 +2,16 @@
 <h3 align="center">Passionate About Software Engineering 💻😍</h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish-dr&label=Profile%20views&color=0e75b6&style=flat" alt="debashish-dr" /> </p>
 
 - 🌱 I’m currently in **1st year b tech CSE🫡**
 
-- 📫 How to reach me **debasishdr451@gmail.com**
+- 📫 Reach me on - **debasishdr451@gmail.com**
 
-- 📄 Know about my experiences [Starting Java](Starting Java)
+- 📄 Stage of learning - [Starting Java](Starting Java)
 
-- ⚡ Fun fact **I always like to be childish 😅🥰**
+- ⚡ Fun fact of me - **I always like to be childish 😅🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
