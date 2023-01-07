@@ -1,3 +1,4 @@
+![logo](https://github.com/Debashish-DR/Debashish-DR/blob/main/Picsart_23-01-07_22-11-55-969.jpg)
 <h1 align="center">Hi 👋, I'm Debashish Rout</h1>
 <h3 align="center">Passionate About Software Engineering 💻😍</h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
