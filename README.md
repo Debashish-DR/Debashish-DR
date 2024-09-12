@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish-dr&label=Profile%20views&color=0e75b6&style=flat" alt="debashish-dr" /> </p>
 
-- 🌱 I’m currently in **1st year b tech CSE🫡**
+- 🌱 I’m currently in **3rd year of BTech CSE🫡**
 
 - 📫 Reach me on - **debasishdr451@gmail.com**
 
-- 📄 Stage of learning - [Starting Java](Starting Java)
+- 📄 Stage of learning - [Exploring Artificial Intelligence & Machine Learning]
 
 - ⚡ Fun fact of me - **I always like to be childish 😅🥰**
 
