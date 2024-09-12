@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="" alt="java" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9de39116-5d67-4597-85d1-360ab34f29b8](https://cdn-icons-png.flaticon.com/256/5968/5968267.png
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="" alt="java" width="40" height="40"/> </a> <a href=""> <img src="https://github.com/user-attachments/assets/9de39116-5d67-4597-85d1-360ab34f29b8](https://cdn-icons-png.flaticon.com/256/5968/5968267.png
 " alt="html" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-dr&show_icons=true&locale=en&layout=compact" alt="debashish-dr" /></p>
