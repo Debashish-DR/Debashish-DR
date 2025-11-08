@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish-dr&label=Profile%20views&color=0e75b6&style=flat" alt="debashish-dr" /> </p>
 
-- 🌱 I’m currently in **3rd year of BTech CSE🫡**
+- 🌱 I’m currently in **Final year of BTech CSE🫡**
 
 - 📫 Reach me on - **debasishdr451@gmail.com**
 
